@@ -1,4 +1,4 @@
-#### NLP Project: Sentiment Analysis on Restaurant Reviews
+# NLP Project: Sentiment Analysis on Restaurant Reviews
 ## Overview
 This repository contains code for a Sentiment Analysis project that leverages Natural Language Processing (NLP) techniques. The model is built using Python, Hugging Face's Transformers, and pandas, aiming to classify customer reviews as positive or negative.
 
@@ -11,7 +11,7 @@ This project demonstrates the full pipeline of an NLP workflow, from data cleani
 **Highly Modular**: Code is structured to allow easy extension or modification for other NLP tasks or datasets.
 
 ## Project Structure:
-nlp-sentiment-analysis/
+-- nlp-sentiment-analysis/
 │
 ├── data/                   # Folder containing the dataset
 │   └── Restaurant_Reviews.tsv
